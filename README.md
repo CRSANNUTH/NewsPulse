@@ -1,7 +1,7 @@
 
 # NewsPulse : News Research Tool 
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+NewsPulse is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
 Features
 Load News Article URLs or Upload Text Files:
@@ -34,3 +34,16 @@ The application uses an .env file for storing sensitive information like the Gem
 Real-Time Updates:
 
 Once the URLs are processed, the FAISS index is updated with the latest embeddings, enabling real-time querying of new content. Users can continue to process new URLs and ask questions about them without restarting the application.
+
+Here are the technologies used in your NewsPulse application:
+
+Streamlit,
+Gemini API,
+LangChain,
+FAISS,
+Python,
+Pickle,
+Dotenv,
+GitHub,
+
+
